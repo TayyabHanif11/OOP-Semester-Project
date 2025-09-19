@@ -1,1 +1,6 @@
-This Project will be be a collaborative work on C++ language using the concept of Object Oriented Programming. Smart Task Management is the targeted system.. Using Github to manage source code
+#include<iostream>
+using namespace std;
+int main() {
+cout << "Hello World";
+return 0;
+}
